@@ -166,7 +166,7 @@ export default function RegisterForm() {
             <span className="flex gap-1">
               <span className="text-sm">Already have an account?</span>
               <Link href="/login" className="text-sm underline">
-                Sign up
+                Sign in
               </Link>
             </span>
           </div>
