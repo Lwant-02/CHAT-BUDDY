@@ -62,7 +62,7 @@ export default function RegisterForm() {
           Create your account
         </span>
         <span className="text-sm font-bold capitalize text-gray-500">
-          Welcome to L-0 chat
+          Welcome to CHAT-BUDDY
         </span>
         <button
           className="bg-[#08C2FF] hover:bg-[#3AD4FF] h-10 flex items-center p-2 gap-2 rounded-md shadow-md"
