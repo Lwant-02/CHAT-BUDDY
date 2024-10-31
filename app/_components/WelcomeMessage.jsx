@@ -5,7 +5,7 @@ import { UseMainContext } from "@/context/MainContextProvider";
 export default function WelcomeMessage() {
   const { userData } = UseMainContext();
 
-  const header = `Hi, ${userData?.name} 😊`;
+  const header = `Hi, ${userData?.name ? userData.name : ""} 😊`;
   const firstText = "What can I help you today?";
   const secondText = "I am a helpfull AI assistance developed by Lwant";
   return (
