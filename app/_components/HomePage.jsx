@@ -21,10 +21,10 @@ export default function HomePage() {
             , your AI-powered companion designed to assist you in navigating
             tasks and answering questions with ease. Whether you're seeking
             quick information, personalized guidance, or just someone to talk
-            to, L-0 is here to respond in real-time with smart, conversational
-            replies. Tailored to adapt to your needs, L-0 is a versatile tool
-            that makes interaction effortless, helping you stay productive while
-            enhancing your overall experience.
+            to, CHAT-BUDDY is here to respond in real-time with smart,
+            conversational replies. Tailored to adapt to your needs, CHAT-BUDDY
+            is a versatile tool that makes interaction effortless, helping you
+            stay productive while enhancing your overall experience.
           </p>
 
           <div className="mt-5 lg:mt-0 flex justify-center lg:justify-start">

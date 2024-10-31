@@ -17,13 +17,19 @@ export default function Contact() {
           Developer Contact:
         </span>
         <span className="flex gap-5">
-          <a href="https://www.facebook.com/nawmong02?mibextid=LQQJ4d">
+          <a
+            href="https://www.facebook.com/nawmong02?mibextid=LQQJ4d"
+            target="_blank"
+          >
             <FacebookIcon className="hover:text-grey-400 transition-all duration-300 " />
           </a>
-          <a href="https://github.com/Lwant-02">
+          <a href="https://github.com/Lwant-02" target="_blank">
             <GitHubIcon className="hover:text-grey-400 transition-all duration-300 " />
           </a>
-          <a href="mailto:jaimain671@gmail.com?subject=Feedback">
+          <a
+            href="mailto:jaimain671@gmail.com?subject=Feedback"
+            target="_blank"
+          >
             <EmailIcon className="hover:text-grey-400 transition-all duration-300" />
           </a>
         </span>

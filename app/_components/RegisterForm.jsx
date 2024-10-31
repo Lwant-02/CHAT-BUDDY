@@ -161,7 +161,7 @@ export default function RegisterForm() {
               className="h-8 bg-[#08c2ee] hover:bg-[#3AD4FF] text-gray-50 p-2 items-center flex lg:w-40 w-32 justify-center rounded-md shadow-md"
               type="submit"
             >
-              {isLoading ? <MiniSpinner /> : "Sing Up"}
+              {isLoading ? <MiniSpinner /> : "Sign Up"}
             </button>
             <span className="flex gap-1">
               <span className="text-sm">Already have an account?</span>

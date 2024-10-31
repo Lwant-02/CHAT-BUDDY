@@ -132,7 +132,7 @@ export default function LoginForm() {
           </div>
           <div className="flex justify-center flex-col items-center gap-1 mt-5">
             <button className="h-8 bg-[#08c2ff] hover:bg-[#3AD4FF] text-gray-50 p-2 items-center flex lg:w-40 w-32 justify-center rounded-md shadow-md">
-              {isLoading ? <MiniSpinner size="small" /> : "Sing In"}
+              {isLoading ? <MiniSpinner size="small" /> : "Sign In"}
             </button>
             <span className="flex gap-1">
               <span className="text-sm">Don't have an account?</span>
